@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JihyongOh/XVFI)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JihyongOh/JihyongOh)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihyongOh&show_icons=true&theme=highcontrast)
 
