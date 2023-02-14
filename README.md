@@ -19,4 +19,4 @@
    SDR-to-HDR Inverse Tone Mapping (ITM)
 ```
 - 💻 I want to apply for a full-time employee position in USA.
-- 📧 Contact: jhoh94@kaist.ac.kr
+- 📧 Contact: jhoh94@gmail.com
