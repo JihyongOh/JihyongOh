@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JihyongOh&show_icons=true&theme=highcontrast)
 
-- 👨🏻‍💻 I am a Ph.D. student advised by Prof. [Munchurl Kim](https://www.viclab.kaist.ac.kr/professor) (Video and Image Computing Lab.) in KAIST (expected graduation date: Feb. 2023).
+- 👨🏻‍💻 I am currently a post-doctoral researcher at [VICLAB](https://www.viclab.kaist.ac.kr/professor) (Video and Image Computing Lab.) in KAIST.
 - 👨🏻‍⚕ Please visit my personal homepage ([here](https://sites.google.com/view/ozbro/)).
 - 🔬 I mainly focus on deep-learning-based low-level computer vision such as:
 ```
