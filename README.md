@@ -6,17 +6,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JihyongOh&show_icons=true&theme=highcontrast)
 
-- 👨🏻‍💻 I am currently a post-doctoral researcher at [VICLAB](https://www.viclab.kaist.ac.kr/professor) (Video and Image Computing Lab.) in KAIST.
+- 👨🏻‍💻 I am currently an assistant professor at [CMLab](cmlab.cau.ac.kr) (Computer Vision and Multimedia Lab.) in Chung-Ang Univ. (CAU).
 - 👨🏻‍⚕ Please visit my personal homepage ([here](https://sites.google.com/view/ozbro/)).
-- 🔬 I mainly focus on deep-learning-based low-level computer vision such as:
+- 🔬 I primarily focus on a variety of deep-learning-based Computer Vision research areas, such as:
 ```
    Neural Radiance Fields (NeRF)
-   Video Frame Interpolation (VFI)
-   Video Super Resolution (VSR)
-   Video Deblurring (VD)
-   Video Colorization
+   Video Frame Interpolation / Super Resolution / Deblurring / Colorization  
+   Optical Flow Estimation
    Computational Photography
-   SDR-to-HDR Inverse Tone Mapping (ITM)
+   SDR-to-HDR Inverse Tone Mapping
+   Generative AI; Diffusion Models, GANs
+   GAN/CNN-based Synthetic Aperture Radar (SAR) Target Recognition/Generation
 ```
-- 💻 I want to apply for a full-time employee position in USA.
-- 📧 Contact: jhoh94@gmail.com
+- 💻 If you are interested in collaborating with me, please don't hesitate to send the email below.
+- 📧 Contact: jihyongoh@cau.ac.kr
