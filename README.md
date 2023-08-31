@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JihyongOh&show_icons=true&theme=highcontrast)
 
-- 👨🏻‍💻 I am currently an assistant professor at [CMLab](cmlab.cau.ac.kr) (Computer Vision and Multimedia Lab.) in Chung-Ang Univ. (CAU).
+- 👨🏻‍💻 I am currently an assistant professor at [CMLab](https://cmlab.cau.ac.kr) (Computer Vision and Multimedia Lab.) in Chung-Ang Univ. (CAU).
 - 👨🏻‍⚕ Please visit my personal homepage ([here](https://sites.google.com/view/ozbro/)).
 - 🔬 I primarily focus on a variety of deep-learning-based Computer Vision research areas, such as:
 ```
