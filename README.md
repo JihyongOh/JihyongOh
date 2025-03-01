@@ -8,15 +8,15 @@
 
 - 👨🏻‍💻 I am currently an assistant professor at [CMLab](https://cmlab.cau.ac.kr) (**C**reative Vision and **M**ultimedia **Lab**.) in Chung-Ang Univ. (CAU).
 - 👨🏻‍⚕ Please visit my personal homepage ([here](https://sites.google.com/view/ozbro/)).
-- 🔬 I primarily focus on a variety of deep-learning-based Computer Vision research areas, such as:
+- 🔬 I primarily focus on a variety of AI-based Computer Vision and Multimedia research areas, such as:
 ```
-   Neural Radiance Fields (NeRF)
-   Video Frame Interpolation / Super Resolution / Deblurring / Colorization  
-   Optical Flow Estimation
-   Computational Photography
-   SDR-to-HDR Inverse Tone Mapping
-   Generative AI; Diffusion Models, GANs
-   GAN/CNN-based Synthetic Aperture Radar (SAR) Target Recognition/Generation
+   ✨ Low-Level Vision
+       Video Super-Resolution / Deblurring / Video Frame Interpolation / Denoising / Dehazing / Enhancement / Restoration, etc. 
+   👁️⃤ 3D Vision
+       Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
+   🤖 Generative AI
+      Multi-Modal / Editing / Personalization / Diffusion Models, etc.
+--> But, not limited to!
 ```
 - 💻 If you are interested in collaborating with me, please don't hesitate to send the email below.
 - 📧 Contact: jihyongoh@cau.ac.kr
