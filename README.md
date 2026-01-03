@@ -15,7 +15,7 @@
    👁️⃤ 3D Vision
        Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
    🤖 Generative AI
-      Multi-Modal / Editing / Personalization / Diffusion Models, etc.
+      Multi-Modal / Editing / Personalization / Morphing / Style Transfer / Composition, etc.
 --> But, not limited to!
 ```
 - 💻 If you are interested in collaborating with me, please don't hesitate to send the email below.
