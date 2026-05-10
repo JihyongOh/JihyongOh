@@ -11,7 +11,7 @@
 - Research Area:
 ```
    ✨ Low-Level Vision
-       Video Super-Resolution / Deblurring / Video Frame Interpolation / Denoising / Dehazing / Enhancement / Restoration, etc. 
+       All-in-One Restoration / Refinement of AI Generated Content / Super-Resolution / Deblurring / Frame Interpolation /Demoiréing, etc. 
    👁️⃤ 3D Vision
        Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
    🤖 Generative AI
