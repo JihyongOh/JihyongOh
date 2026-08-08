@@ -8,13 +8,3 @@
 
 - 👨🏻‍💻 I am currently an assistant professor at [CMLab](https://cmlab.cau.ac.kr) (**C**reative Vision and **M**ultimedia **Lab**.) in Chung-Ang Univ. (CAU).
 - 🔬 Please visit our CMLab GitHub ([here](https://github.com/CMLab-Korea)).
-- Research Area:
-```
-   ✨ Low-Level Vision
-       All-in-One Restoration / Refinement of AI Generated Content / Super-Resolution / Deblurring / Frame Interpolation /Demoiréing, etc. 
-   👁️⃤ 3D Vision
-       Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
-   🤖 Generative AI
-      Multi-Modal / Editing / Personalization / Morphing / Style Transfer / Composition, etc.
---> But, not limited to!
-```
